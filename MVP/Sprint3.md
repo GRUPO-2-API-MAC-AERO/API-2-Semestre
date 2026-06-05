@@ -19,7 +19,6 @@
 ## 👥 Personas / Usuários-Alvo
 - **Prof. Rubens:** metodologia ágil, integrantes demonstraram melhoria em todos os sprints.
 - **Prof. Marcus:** análise do dashboard, está estruturado e atualizado com os novos municípios.
-- **Cavali(Cliente):** aguardando...  
   
 ---
 
