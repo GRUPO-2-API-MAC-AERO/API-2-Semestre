@@ -1,6 +1,6 @@
 # Aprendizado por Projeto Integrador (API) - MAC AERO
 
-Mapeamento do ecossistema industrial do setor aeronáutico. 
+Mapeamento do mercado de trabalho do setor aeronáutico. 
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
@@ -27,8 +27,8 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 |  Team Member  | Stephanie                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stephanie-helen-6b09ba210?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Stephaniehellen)   |
 
 # Objetivo do Projeto
-Este projeto tem como objetivo demonstrar de forma clara os dados do comércio exterior da indústria aeronáutica, visando:
-* Apresentar dados reais do ComexStat;
+Este projeto tem como objetivo demonstrar de forma clara os dados de vínculos empregatícios da indústria aeronáutica, visando:
+* Apresentar dados reais do RAIS;
 * Organizar e estruturar as informações;
 * Versionar e controlar as alterações;
 * Facilitar o entendimento e a análise;
@@ -38,6 +38,7 @@ Este projeto tem como objetivo demonstrar de forma clara os dados do comércio e
 ## Tecnologias Utilizadas
 
 * Google Colab (Python)
+* Visual Studio Code
 * Microsoft Excel
 * Google Drive
 * Power BI
@@ -53,6 +54,10 @@ Este projeto tem como objetivo demonstrar de forma clara os dados do comércio e
 | 2    | Alta       | Na qualidade de cliente, solicito a entrega final do dashboard contendo os dados apresentados de maneira clara e visual, de forma a atender plenamente aos requisitos estabelecidos ao longo do projeto e contribuir para a adequada compreensão das informações.                                                                 | Completo         | 3      |
 | 3    | Alta       | Na qualidade de cliente, solicito a finalização e entrega do repositório no GitHub contendo todas as informações necessárias adquiridas ao longo do desenvolvimento do projeto.                                               | Completo         | 3      |
 | ...  | Alta      | Na qualidade de cliente, solicito que seja realizada a entrega do relatório final do projeto, de forma completa e clara, contemplando todas as etapas, análises e resultados obtidos. O documento deve apresentar as informações de maneira organizada e de fácil compreensão, de modo a garantir total transparência e facilitar a avaliação dos dados apresentados.    | Completo        | 3      |
+
+
+
+https://github.com/user-attachments/assets/ed6cfafc-122d-4186-8f99-a4202abe9197
 
 
 
@@ -75,7 +80,5 @@ Este projeto tem como objetivo demonstrar de forma clara os dados do comércio e
 
 # Prévia do DashBoard
 
-![Export](https://github.com/user-attachments/assets/5caa40ec-39a7-4147-9edf-7aed99b02e53)
 
-![Import](https://github.com/user-attachments/assets/62266f3d-3d41-4d34-993f-fc7122270dbe)
 
