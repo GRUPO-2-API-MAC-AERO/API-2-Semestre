@@ -24,19 +24,19 @@
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Na qualidade de cliente, solicito a substituição do gráfico atualmente apresentado por uma alternativa mais adequada, que proporcione maior clareza e facilite a interpretação dos dados.         | Alta       | 2H   |
-| US2 | Como cliente solicito o plano de ação referente ao aprendizado, desenvolvimento e desempenho dos envolvidos no projeto.         | Baixa      | 8H   |
-| US3 | Na qualidade de cliente, solicito a inclusão de categorias adicionais de SH4 na visualização dos dados filtrados no Power BI, com o objetivo de aprimorar a precisão das informações disponibilizadas.         | Alta       | 4H   |
-| US4 | Na qualidade de cliente, solicito a entrega do repositório no GitHub contendo todo o histórico e documentação referente ao andamento do projeto, de forma clara e organizada.         | Alta      | 5H   |
-| US5 | Na qualidade de cliente, venho solicitar a disponibilização de uma amostra interativa desenvolvida no Power BI. Essa amostra deverá permitir a visualização dinâmica dos dados, facilitando a compreensão e análise das informações apresentadas.         | Baixa      | 2H   |
+| US1 |          |        |    |
+| US2 |          |       |    |
+| US3 |          |        |    |
+| US4 |         |       |    |
+| US5 |          |     |    |
 
 ---
 
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 02     | DashBoard com dados atualizados dos SH4      | Concluído|
-| 03     | Mudar as cidades analisadas para o top 5 de SP           | Concluído|
+| 02     |       | |
+| 03     |            | |
 
 ---
 
