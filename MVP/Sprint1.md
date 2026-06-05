@@ -1,24 +1,24 @@
 # 📌 MVP - [MAC AERO 1]
 
 ## 🎯 Objetivo do MVP
-> Mapear o ecossistema industrial de São José dos Campos e região:  
+> Mostrar informações socioeconômicas e trabalhistas de São José dos Campos e região:  
 - Suprir a necessidade de uma plataforma que torna os dados mais disponíveis.  
-- Entender quais situações ou agentes externos interferem no lucro.
+- Entender quais situações ou agentes externos interferem nas contratações.
 - O cliente irá receber uma platadorma de dados de fácil compreensão. 
 
 ---
 
 ## 📝 Descrição da Solução
 > Introdução da equipe a base de dados e as ferramentas utilizadas usando a metodologia ágil.  
-- Utilização de uma filtragem de dados por setor produtivo, com graficos intuitivos.  
-- Falta de dados sobre a exportação.
+- Utilização de um modelo de Dashboard moderno e bem estruturado.  
+- Falta de dados reais.
 - Criação de um dashboard com graficos de fácil entendimento.
 
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Prof. Rubens:** avaliação de aprendizado, grupo conseguiu aprender a utilizar as ferramentas.  
-- **Prof. Marcus:** avaliação do produto, dashboard bem estruturado com dados reais.  
+- **Prof. Rubens:** avaliação de aprendizado, grupo conseguiu utilizar as ferramentas.  
+- **Prof. Marcus:** avaliação do produto, dashboard bem estruturado, porém sem os dados reais.  
 
 ---
 
@@ -26,47 +26,39 @@
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
 | US1 | Na qualidade de cliente, solicito a realização de estudos detalhados com base nos dados fornecidos, contemplando as entregas previstas, os resultados esperados e as tecnologias que estão planejadas para utilização no decorrer do projeto.         | Baixa       | 8H   |
-| US2 | Na qualidade de cliente, solicito a revisão do banco de dados de NCM por município, com o objetivo de assegurar a consistência, a completude das informações disponibilizadas.         | Alta      | 72H   |
-| US3 | Solicito, na qualidade de cliente, a entrega dos dados devidamente revisados e analisados, assegurando a precisão, consistência e integridade das informações apresentadas.         | Média       | 6H   |
-| US4 | Como cliente quero que seja feito a entrega da primeira estrutura do Dashboard já com os dados tratados inseridos.         | Alta      | 2H   |
+| US2 | Como cliente quero que seja feito a entrega da primeira estrutura do Dashboard sem conter os dados tratados.         | Alta      | 8H   |
+| US3 | Solicito, na qualidade de cliente, a entrega de um breve estudo referente aos critérios pré estabelecidos.         | Média       | 6H   |
 
 ---
 
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | Dados tratados e filtrados                 | Concluído|
-| 02     | Adicionar mais produtos na exportação   | Concluído|
+| 01     | Estudo referente aos critérios                 | Concluído|
+| 02     | Modelo do Dashboard   | Concluído|
 
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário faça uma análise do ecossistema indústrial. 
-- O sistema deve registrar o valor FOB de importação e exportação.  
-- Métricas coletadas: foi visualidado que o valor de importação foi maior que o de exportação.
+- O MVP deve permitir que o usuário visualize o modelo do Dashboard.   
+- Métricas coletadas: foi visualidado que o Dashboard está bem estruturado.
 
 ---
 
 ## 📈 Métricas de Validação
 - MVP foi testado pelo Prof. Rubens e pelo Prof. Marcus.  
-- Foi observado que o trabalho está bem estruturado, porém a falta de produtos mostrados na exportação tornou o valor discrepante em relação a importação.
-- DashBoard apesar da discrepância no valor esta bem intuitivo.
+- Foi observado que o trabalho está bem estruturado, porém a falta de dados reais impediu uma análise do cenário.
+- DashBoard apesar da falta de dados, esta bem intuitivo.
 
 ---
 
 ## 🚀 Próximos Passos
-- Adicionar o SH4 dos produtos faltantes nos dados de exportação e melhorar os graficos do dashboard. 
-- Adicionar botões para filtrar os dados por município.  
-- Layout mais amigável para todos os usuários.  
+- Adicionar os dados reais tratados e filtrados ao dashboard. 
+- Analisar o cenário e criar um estudo sobre os vincúlos empregatícios.  
 
 ---
 
 ## 📂 Anexos / Evidências
-<img width="825" height="956" alt="image" src="https://github.com/user-attachments/assets/031e3f31-2cb6-425b-9919-494e2251c5ed" />
 
-<img width="1236" height="919" alt="image" src="https://github.com/user-attachments/assets/5826348c-82c9-407b-acb0-efc07ef24c47" />
+https://github.com/user-attachments/assets/6daed677-9089-421e-a3f6-411bfe126960
 
-https://github.com/user-attachments/assets/e7eea7a5-6931-4720-910b-7360e80e347a
-
-
-  
