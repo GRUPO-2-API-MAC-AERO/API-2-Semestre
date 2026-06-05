@@ -52,7 +52,7 @@ Este projeto tem como objetivo demonstrar de forma clara os dados de vínculos e
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
 | 1    | Baixa       | Na qualidade de cliente, solicito a realização de estudos detalhados com base nos dados fornecidos, contemplando as entregas previstas, os resultados esperados e as tecnologias que estão planejadas para utilização no decorrer do projeto.                                                    | Completo         | 1      |
 | 2    | Alta       | Como cliente quero que seja feito a entrega da primeira estrutura do Dashboard sem conter os dados tratados.                                                                 | Completo         | 1      |
-| 3    | Alta       | Solicito, na qualidade de cliente, a entrega de um breve estudo referente aos critérios pré estabelecidos.                                               | Completo         | 1      |
+| 3    | Média       | Solicito, na qualidade de cliente, a entrega de um breve estudo referente aos critérios pré estabelecidos.                                               | Completo         | 1      |
 
 
   
