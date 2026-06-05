@@ -56,13 +56,6 @@ Este projeto tem como objetivo demonstrar de forma clara os dados de vínculos e
 | ...  | Alta      | Na qualidade de cliente, solicito que seja realizada a entrega do relatório final do projeto, de forma completa e clara, contemplando todas as etapas, análises e resultados obtidos. O documento deve apresentar as informações de maneira organizada e de fácil compreensão, de modo a garantir total transparência e facilitar a avaliação dos dados apresentados.    | Completo        | 3      |
 
 
-
-https://github.com/user-attachments/assets/ed6cfafc-122d-4186-8f99-a4202abe9197
-
-
-
-
-
   
 # Registro das Sprints
 
@@ -80,5 +73,5 @@ https://github.com/user-attachments/assets/ed6cfafc-122d-4186-8f99-a4202abe9197
 
 # Prévia do DashBoard
 
-
+https://github.com/user-attachments/assets/ed6cfafc-122d-4186-8f99-a4202abe9197
 
