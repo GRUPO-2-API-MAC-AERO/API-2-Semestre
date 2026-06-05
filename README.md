@@ -50,10 +50,9 @@ Este projeto tem como objetivo demonstrar de forma clara os dados de vínculos e
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Média       | Na qualidade de cliente, solicito a entrega de uma autoavaliação referente aos dados fornecidos, incluindo perguntas e questionamentos que expliquem os motivos pelos quais os resultados foram alcançados. Essa avaliação deve contribuir para a compreensão crítica e fundamentada dos dados apresentados.                                                    | Completo         | 3      |
-| 2    | Alta       | Na qualidade de cliente, solicito a entrega final do dashboard contendo os dados apresentados de maneira clara e visual, de forma a atender plenamente aos requisitos estabelecidos ao longo do projeto e contribuir para a adequada compreensão das informações.                                                                 | Completo         | 3      |
-| 3    | Alta       | Na qualidade de cliente, solicito a finalização e entrega do repositório no GitHub contendo todas as informações necessárias adquiridas ao longo do desenvolvimento do projeto.                                               | Completo         | 3      |
-| ...  | Alta      | Na qualidade de cliente, solicito que seja realizada a entrega do relatório final do projeto, de forma completa e clara, contemplando todas as etapas, análises e resultados obtidos. O documento deve apresentar as informações de maneira organizada e de fácil compreensão, de modo a garantir total transparência e facilitar a avaliação dos dados apresentados.    | Completo        | 3      |
+| 1    | Baixa       | Na qualidade de cliente, solicito a realização de estudos detalhados com base nos dados fornecidos, contemplando as entregas previstas, os resultados esperados e as tecnologias que estão planejadas para utilização no decorrer do projeto.                                                    | Completo         | 1      |
+| 2    | Alta       | Como cliente quero que seja feito a entrega da primeira estrutura do Dashboard sem conter os dados tratados.                                                                 | Completo         | 1      |
+| 3    | Alta       | Solicito, na qualidade de cliente, a entrega de um breve estudo referente aos critérios pré estabelecidos.                                               | Completo         | 1      |
 
 
   
