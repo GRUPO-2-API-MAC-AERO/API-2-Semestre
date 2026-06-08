@@ -1,4 +1,4 @@
-# 📌 MVP - [MAC AERO 1]
+# 📌 MVP - [MAC AERO 2]
 
 ## 🎯 Objetivo do MVP
 > Obter êxito no tratamento e estudo dos dados da base RAIS:  
