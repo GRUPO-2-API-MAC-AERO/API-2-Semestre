@@ -61,8 +61,8 @@ Este projeto tem como objetivo demonstrar de forma clara os dados de vínculos e
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
 | 01                | 30/03/2026 | feito  | [MVP/Sprint1.md](https://github.com/GRUPO-2-API-MAC-AERO/API-2-Semestre/blob/aa49d4309853f1de4efc5221e9768a0c9b988143/MVP/Sprint1.md) |
-| 02                | 10/05/2026 | feito  | https://github.com/GRUPO-2-API-MAC-AERO/API-2-Semestre/blob/ef7cdff2665ca0ca6201fa07f534bfb90d9a8911/MVP/Sprint2.md   |
-| 03                | 08/06/2026 | a fazer  |   |
+| 02                | 10/05/2026 | feito  | [MVP/Sprint2.md](https://github.com/GRUPO-2-API-MAC-AERO/API-2-Semestre/blob/71c4e4540e3ee1174eeaa6f0a60ca139ee8060a6/MVP/Sprint2.md)   |
+| 03                | 08/06/2026 | feito  | [MVP/Sprint3.md](https://github.com/GRUPO-2-API-MAC-AERO/API-2-Semestre/blob/71c4e4540e3ee1174eeaa6f0a60ca139ee8060a6/MVP/Sprint3.md)  |
 | Cliente           |  | a fazer  |   |
 | Feira de Soluções |  | a fazer  |   |
 
