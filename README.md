@@ -50,9 +50,9 @@ Este projeto tem como objetivo demonstrar de forma clara os dados de vínculos e
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Baixa       | Na qualidade de cliente, solicito a realização de um estudo mais aprofundado com base nos dados fornecidos, bem como a proposição de um tratamento adequado, conduzido de forma correta e criteriosa.                                                    | Completo         | 2      |
-| 2    | Alta       | Na qualidade do cliente solicito a entrega do repositório no GitHub contendo todo o histórico e documentação referente ao andamento do projeto, de forma clara e organizada.                                                                 | Completo         | 2      |
-| 3    | Média       | Na qualidade do cliente, venho solicitar a disponibilização de uma amostra interativa desenvolvida no Power BI. Essa amostra deverá permitir a visualização dinâmica, facilitando a compreensão e análise das informações que serão apresentadas após o tratamento de dados.                                               | Completo         | 2      |
+| 1    | Média       | Na qualidade de cliente, solicito a entrega de uma autoavaliação referente aos dados fornecidos, incluindo perguntas e questionamentos que expliquem os motivos pelos quais os resultados foram alcançados. Essa avaliação deve contribuir para a compreensão crítica e fundamentada dos dados apresentados                                                   | Completo         | 3      |
+| 2    | Alta       | Na qualidade de cliente, solicito a entrega final do dashboard contendo os dados apresentados de maneira clara e visual, de forma a atender plenamente aos requisitos estabelecidos ao longo do projeto e contribuir para a adequada compreensão das informações.                                                                | Completo         | 3      |
+| 3    | Baixa       | Na qualidade de cliente, solicito a finalização e entrega do repositório no GitHub contendo todas as informações necessárias adquiridas ao longo do desenvolvimento do projeto.                                              | Completo         | 3      |
 
 
   
