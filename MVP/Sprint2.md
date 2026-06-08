@@ -9,7 +9,7 @@
 ---
 
 ## 📝 Descrição da Solução
-> Comparação do arquivo que foi feito o filtro com o de outro grupo:  
+> Comparação do filtro com o de outro grupo:  
 - Correções feitas no código para mostrar os dados com base nos CNAES e CEP.
 - Estudo feito em cima da base de dados ja tratada.
 - Grupo conseguiu os dados necessários para responder as perguntas do cliente.
@@ -60,6 +60,5 @@
 
 ## 📂 Anexos / Evidências
 
-[PBI.xlsx](https://github.com/user-attachments/files/28694038/PBI.xlsx)
-
+[PBI.xlsx](https://github.com/user-attachments/files/28694140/PBI.xlsx)
 
