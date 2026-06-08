@@ -34,7 +34,7 @@
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | Correção no codigo da filtragem dos dados    | Concluído|
+| 02     | Correção no codigo da filtragem dos dados    | Concluído|
 | 02     | Estudo e tratamento da base de dados   | Concluído|
 
 ---
