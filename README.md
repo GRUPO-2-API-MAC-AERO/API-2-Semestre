@@ -50,9 +50,9 @@ Este projeto tem como objetivo demonstrar de forma clara os dados de vínculos e
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Baixa       | Na qualidade de cliente, solicito a realização de estudos detalhados com base nos dados fornecidos, contemplando as entregas previstas, os resultados esperados e as tecnologias que estão planejadas para utilização no decorrer do projeto.                                                    | Completo         | 1      |
-| 2    | Alta       | Como cliente quero que seja feito a entrega da primeira estrutura do Dashboard sem conter os dados tratados.                                                                 | Completo         | 1      |
-| 3    | Média       | Solicito, na qualidade de cliente, a entrega de um breve estudo referente aos critérios pré estabelecidos.                                               | Completo         | 1      |
+| 1    | Baixa       | Na qualidade de cliente, solicito a realização de um estudo mais aprofundado com base nos dados fornecidos, bem como a proposição de um tratamento adequado, conduzido de forma correta e criteriosa.                                                    | Completo         | 2      |
+| 2    | Alta       | Na qualidade do cliente solicito a entrega do repositório no GitHub contendo todo o histórico e documentação referente ao andamento do projeto, de forma clara e organizada.                                                                 | Completo         | 2      |
+| 3    | Média       | Na qualidade do cliente, venho solicitar a disponibilização de uma amostra interativa desenvolvida no Power BI. Essa amostra deverá permitir a visualização dinâmica, facilitando a compreensão e análise das informações que serão apresentadas após o tratamento de dados.                                               | Completo         | 2      |
 
 
   
