@@ -70,7 +70,6 @@ Este projeto tem como objetivo demonstrar de forma clara os dados de vínculos e
 
 
 
-# Prévia do DashBoard
+# DashBoard
 
-https://github.com/user-attachments/assets/ed6cfafc-122d-4186-8f99-a4202abe9197
-
+https://github.com/user-attachments/assets/642b3afe-263f-48fe-8f4d-1688b8f132dd
