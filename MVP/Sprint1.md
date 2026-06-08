@@ -11,7 +11,7 @@
 ## 📝 Descrição da Solução
 > Introdução da equipe a base de dados e as ferramentas utilizadas usando a metodologia ágil.  
 - Utilização de um modelo de Dashboard moderno e bem estruturado.  
-- Falta de dados reais.
+- Tentativa de tratamento dos dados.
 - Criação de um dashboard com graficos de fácil entendimento.
 
 ---
