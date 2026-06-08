@@ -25,17 +25,17 @@
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 |          |        |    |
-| US2 |          |        |    |
-| US3 |          |        |    |
+| US1 | Na qualidade de cliente, solicito a entrega de uma autoavaliação referente aos dados fornecidos, incluindo perguntas e questionamentos que expliquem os motivos pelos quais os resultados foram alcançados. Essa avaliação deve contribuir para a compreensão crítica e fundamentada dos dados apresentados          | Média       |  4  |
+| US2 | Na qualidade de cliente, solicito a entrega final do dashboard contendo os dados apresentados de maneira clara e visual, de forma a atender plenamente aos requisitos estabelecidos ao longo do projeto e contribuir para a adequada compreensão das informações.         | Alta       |  8  |
+| US3 | Na qualidade de cliente, solicito a finalização e entrega do repositório no GitHub contendo todas as informações necessárias adquiridas ao longo do desenvolvimento do projeto.         | Baixa       |  4  |
 
 ---
 
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 03     | DashBoard 100% pronto    | Concluído|
-| 03     | Resolução do problema do cliente   | Concluído|
+| 03     | DashBoard 100% pronto    | Concluído |
+| 03     | Resolução do problema do cliente   | Concluído |
 
 ---
 
